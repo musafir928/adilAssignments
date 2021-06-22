@@ -1,6 +1,6 @@
 package assignment_1;
 
-public class question1 {
+public class question_1 {
 	/*Question-1
 
 The purpose of this exercise is to verify that you know how to run a basic Java application.
