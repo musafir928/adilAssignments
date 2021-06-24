@@ -16,15 +16,15 @@ public class question_8 {
 	  System.out.println();
 	  System.out.println();
 	  
-	  System.out.print("******    "); System.out.print("\t");    System.out.print("*************"); System.out.print("\t"); System.out.println("**********");
-	  System.out.print("**    **  "); System.out.print("\t");    System.out.print("       **    "); System.out.print("\t"); System.out.println("**");
-	  System.out.print("**     ** "); System.out.print("\t");    System.out.print("       **    "); System.out.print("\t"); System.out.println("**");
-	  System.out.print("**      **"); System.out.print("\t");    System.out.print("       **    "); System.out.print("\t"); System.out.println("**");
-	  System.out.print("**      **"); System.out.print("\t");    System.out.print("       **    "); System.out.print("\t"); System.out.println("**********");
-	  System.out.print("**      **"); System.out.print("\t");    System.out.print("**     **    "); System.out.print("\t"); System.out.println("**");
-	  System.out.print("**     ** "); System.out.print("\t");    System.out.print(" **    **    "); System.out.print("\t"); System.out.println("**");
-	  System.out.print("**    **  "); System.out.print("\t");    System.out.print("  **  **     "); System.out.print("\t"); System.out.println("**");
-	  System.out.print("******    "); System.out.print("\t");    System.out.print("   ****      "); System.out.print("\t"); System.out.println("**********");
+	  System.out.println("******     \t ************* \t **********");
+	  System.out.println("**    **   \t        **     \t **");
+	  System.out.println("**     **  \t        **     \t **");
+	  System.out.println("**      ** \t        **     \t **");
+	  System.out.println("**      ** \t        **     \t **********");
+	  System.out.println("**      ** \t **     **     \t **");
+	  System.out.println("**     **  \t  **    **     \t **");
+	  System.out.println("**    **   \t   **  **      \t **");
+	  System.out.println("******     \t    ****       \t **********");
 	                                                                                                                                           
 	  
 	  
