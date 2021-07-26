@@ -8,8 +8,7 @@ public class Question_14 {
 			for(int j = 1; j<=i; j++) {				
 				System.out.print(" ");
 			}
-			System.out.print("#");
-			System.out.println();
+			System.out.println("#");
 		}
 
 	}
